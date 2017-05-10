@@ -1,3 +1,5 @@
+List prefix languajes https://cloud.google.com/translate/docs/languages
+
 # PHP GoogleTranslate free [![Build Status](https://travis-ci.org/SiegSB/php-google-translate-free.svg?branch=master)](https://travis-ci.org/SiegSB/php-google-translate-free)
 Simple PHP library for talking to Google's Translate API for free.
 
